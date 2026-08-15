@@ -97,4 +97,4 @@ Base model: `yolov8n.pt` (YOLOv8 nano — fast, lightweight, suited for real-tim
 ## Acknowledgments
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
-- Dataset: <!-- TODO: credit dataset source -->
+- Dataset:https://universe.roboflow.com/test-tnuvx/extracting-facial-features-ykifq-bjqdx/dataset/2

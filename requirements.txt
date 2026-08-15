@@ -3,7 +3,6 @@ torch
 torchvision
 ultralytics
 streamlit
-opencv-python-headless
 pyyaml
 pillow
 numpy

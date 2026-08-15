@@ -6,6 +6,9 @@ Face detection built with **YOLOv8** (Ultralytics). Includes training/inference 
 ![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-orange)
 ![Streamlit](https://img.shields.io/badge/Demo-Streamlit-red)
 
+<img width="1920" height="1920" alt="train_batch0" src="https://github.com/user-attachments/assets/635abb0d-1fea-4e29-b224-18735733a3c9" />
+
+
 ## Features
 
 - Detects faces in images, videos, and browser camera snapshots

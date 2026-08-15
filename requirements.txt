@@ -6,3 +6,4 @@ streamlit
 pyyaml
 pillow
 numpy
+opencv-python-headless

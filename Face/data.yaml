@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['double-chin', 'eye', 'eyebrow', 'lip', 'mustache-beard', 'nose', 'sharp-jawline', 'slight-double-chin', 'soft-jawline']
+
+roboflow:
+  workspace: test-tnuvx
+  project: extracting-facial-features-ykifq-bjqdx
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/test-tnuvx/extracting-facial-features-ykifq-bjqdx/dataset/2
